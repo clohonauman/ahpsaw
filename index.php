@@ -69,5 +69,5 @@ $sampleData = array(
 $predictedClass = predict($sampleData, $trainingData);
 
 // Output hasil prediksi
-echo "Predicted Class: " . $predictedClass."sdfsdfsd";
+echo "Predicted Class: " . $predictedClass."cba";
 ?>
